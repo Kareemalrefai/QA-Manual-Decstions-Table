@@ -1,0 +1,14 @@
+We are a company that gives it's own employee a promotion based on the following creteria :- 
+
+if the employee achieve the target he / she will get 10% increase on the salary 
+if the employee is living outside amman he/she will get 25jd as an extra for the transportation fees 
+if the employee has a previous warning she/he will not be eligable to get any promotion 
+if the employee is a female she will get 10% increase on her salary as a mom gift 
+
+
+
+target
+not amman 
+warring
+female 
+

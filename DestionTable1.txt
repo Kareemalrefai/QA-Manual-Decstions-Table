@@ -1,0 +1,11 @@
+we are a comapny that hires people based on the following creteria :- 
+
+if the employee is from outside amman she/he will not be hired 
+
+if the employee is an female she will get 5% extra on her salary 
+
+
+amman
+not amman 
+female 
+not female 
